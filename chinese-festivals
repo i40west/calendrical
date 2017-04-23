@@ -1,0 +1,29 @@
+1	Chinese New Year		1	1	1	Chinese_New_Year			
+2	Chinese: Spring Festival day 2	Dog Day	1	2	0				
+3	Chinese: Spring Festival day 3	Pig Day	1	3	0				
+4	Chinese: Spring Festival day 4	Sheep Day	1	4	0				
+5	Chinese: Spring Festival day 5	Cattle Day	1	5	0				
+6	Chinese: Spring Festival day 6	Horse Day	1	6	0				
+7	Chinese: Spring Festival day 7	Human Day	1	7	0	Renri			
+8	Chinese: Spring Festival day 8	Grain Day	1	8	0				
+9	Chinese: Spring Festival day 9	Birthday of the Jade Emperor	1	9	0	Jade_Emperor			
+10	Chinese: Spring Festival day 10	Pulse Day	1	10	0				
+11	Chinese: Lantern Festival	Spring Festival officially ends	1	15	1	Lantern_Festival			
+12	Chinese: Rat's Wedding day		1	19	0				
+13	Chinese: Longtaitou Festival	Dragon Raises Head	2	2	0	Longtaitou Festival			
+14	Chinese: Birthday of Laozi	The Old Master	2	15	0	Laozi			
+15	Chinese: Birthday of Guan Yin	Goddess of Mercy	2	19	0	Guan_Yin			
+16	Chinese: Shangsi Festival	Spring Purification Festival	3	3	0	Shangsi_Festival			
+17	Birthday of the Buddha	Siddhartha, founder of Buddhism	4	8	0	Buddha's_Birthday			
+18	Chinese: Birthday of Lü Dongbin	One of the Eight Immortals	4	14	0	Lü_Dongbin			
+19	Chinese: Dragon Boat Festival		5	5	1	Duanwu_Festival			
+20	Chinese: Bathing and Basking Festival		6	6	0				
+21	Chinese: Birthday of Guan Yu	Warrior God	6	24	0	Guan_Yu			
+22	Chinese: Qixi Festival	Night of Sevens	7	7	0	Qixi_Festival			
+23	Chinese: Ghost Festival		7	15	0	Ghost_Festival			
+24	Chinese: Kitchen God's Birthday		8	3	0	Kitchen_God			
+25	Chinese: Mid-Autumn Festival	Moon Festival	8	15	1	Mid-Autumn_Festival			
+26	Chinese: Double Ninth Festival	Chung Yeung Festival	9	9	0	Double_Ninth_Festival			
+27	Chinese: Sending Off the Winter Clothes		10	1	0				
+28	Chinese: Laba Festival		12	8	0	Laba_Festival			
+29	Chinese: Kitchen God Festival		12	23	0	Kitchen_God			

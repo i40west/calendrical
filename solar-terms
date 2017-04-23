@@ -1,0 +1,24 @@
+1	0	315	立春	lìchūn	Start of Spring
+1	1	330	雨水	yǔshuǐ	Rain Water
+2	0	345	驚蟄	jīngzhé	Awakening of Insects
+2	1	0	春分	chūnfēn	Vernal Equinox
+3	0	15	清明	qīngmíng	Clear and Bright
+3	1	30	穀雨	gǔyǔ	Grain Rains
+4	0	45	立夏	lìxià	Start of Summer
+4	1	60	小滿	xiǎomǎn	Grain Full
+5	0	75	芒種	mángzhòng	Grain in Ear
+5	1	90	夏至	xiàzhì	Summer Solstice
+6	0	105	小暑	xiǎoshǔ	Minor Heat
+6	1	120	大暑	dàshǔ	Major Heat
+7	0	135	立秋	lìqiū	Start of Autumn
+7	1	150	處暑	chùshǔ	Limit of Heat
+8	0	165	白露	báilù	White Dew
+8	1	180	秋分	qiūfēn	Autumnal Equinox
+9	0	195	寒露	hánlù	Cold Dew
+9	1	210	霜降	shuāngjiàng	Descent of Frost
+10	0	225	立冬	lìdōng	Start of Winter
+10	1	240	小雪	xiǎoxuě	Minor Snow
+11	0	255	大雪	dàxuě	Major Snow
+11	1	270	冬至	dōngzhì	Winter Solstice
+12	0	285	小寒	xiǎohán	Minor Cold
+12	1	300	大寒	dàhán	Major Cold
