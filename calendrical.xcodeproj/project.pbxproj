@@ -13,6 +13,7 @@
 		3F6B9B1E1EAC5CBE0025AE94 /* cyear.c in Sources */ = {isa = PBXBuildFile; fileRef = 3F6B9A7A1EAC59540025AE94 /* cyear.c */; };
 		3F6B9B1F1EAC5CCB0025AE94 /* calendar.c in Sources */ = {isa = PBXBuildFile; fileRef = 3F6B9A741EAC59540025AE94 /* calendar.c */; };
 		3F6B9B201EAC5CD00025AE94 /* moonphase.c in Sources */ = {isa = PBXBuildFile; fileRef = 3F6B9A781EAC59540025AE94 /* moonphase.c */; };
+		3FF62F491EAC631B002079AF /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 3FF62F481EAC631B002079AF /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +52,7 @@
 		3F6B9B091EAC5A680025AE94 /* mayandate */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = mayandate; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F6B9B171EAC5CAE0025AE94 /* cyear */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = cyear; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F6B9B191EAC5CAE0025AE94 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		3FF62F481EAC631B002079AF /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 			children = (
 				3F6B9A6C1EAC58560025AE94 /* calendrical */,
 				3F6B9B001EAC59C20025AE94 /* Stuff */,
+				3FF62F481EAC631B002079AF /* README.md */,
 				3F6B9B181EAC5CAE0025AE94 /* cyear */,
 				3F6B9A6B1EAC58560025AE94 /* Products */,
 			);
@@ -206,6 +209,7 @@
 			files = (
 				3F6B9B111EAC5AA60025AE94 /* moonphase.c in Sources */,
 				3F6B9B121EAC5AAB0025AE94 /* mayandate.c in Sources */,
+				3FF62F491EAC631B002079AF /* README.md in Sources */,
 				3F6B9B101EAC5AA00025AE94 /* calendar.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -367,6 +371,7 @@
 				3F6B9B0F1EAC5A690025AE94 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F6B9B1B1EAC5CAE0025AE94 /* Build configuration list for PBXNativeTarget "cyear" */ = {
 			isa = XCConfigurationList;
@@ -375,6 +380,7 @@
 				3F6B9B1D1EAC5CAE0025AE94 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
